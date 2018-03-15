@@ -6,4 +6,8 @@
     <string name="womens">Womens</string>
     <string name="mens">Mens</string>
     <string name="co_ed">CO-ED</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="begginer">BEGGINER</string>
+    <string name="baller">BALLER</string>
+    <string name="finish">FINISH</string>
 </resources>
