@@ -1,8 +1,9 @@
-package com.example.shubham.swoosh
+package com.example.shubham.swoosh.Controller
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.shubham.swoosh.R
 import kotlinx.android.synthetic.main.activity_welocome.*
 
 class WelocomeActivity : AppCompatActivity() {
